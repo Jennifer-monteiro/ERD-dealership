@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "peanut.db.elephantsql.com",
+            "driver": "PostgreSQL",
+            "name": "Dealership",
+            "database": "mcnvcnlr",
+            "password": "rbNfJxjxnX5bhY5wGaDo4TvW-FDpJ8dc",
+            "username": "mcnvcnlr",
+            "connectString": "postgres://mcnvcnlr:rbNfJxjxnX5bhY5wGaDo4TvW-FDpJ8dc@peanut.db.elephantsql.com/mcnvcnlr"
+        }
+    ]
+}
